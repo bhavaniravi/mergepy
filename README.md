@@ -2,7 +2,7 @@
 
 A script created to automate issues [#20139](https://github.com/apache/airflow/issues/20139) and [#20296](https://github.com/apache/airflow/issues/20139) in Apache Airflow
 
-Find the [blog post accompanying the script here]
+Find the [blog post accompanying the script here](https://bhavaniravi.com/blog/merge-python-module-script/)
 
 ## Setup 
 
